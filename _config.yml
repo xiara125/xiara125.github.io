@@ -1,8 +1,5 @@
 # The Site Configuration
 
-include:
-  - _javascript
-
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -151,7 +148,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "xiara125"
+baseurl: "/xiara125"
 
 # ------------ The following options are not recommended to be modified ------------------
 
