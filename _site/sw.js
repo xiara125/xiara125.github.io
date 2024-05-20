@@ -1,6 +1,6 @@
 self.importScripts('/xiara125/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20240521.0103';
+const cacheName = 'chirpy-20240521.0108';
 
 function verifyDomain(url) {
   for (const domain of allowedDomains) {
